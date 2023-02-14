@@ -1,5 +1,7 @@
-O<?php
+<?php
 
-    echo "Ola mundo";
+    echo "Ola mundo. 123";
+
+    echo "Curso PHP HCode";
 
 ?>
